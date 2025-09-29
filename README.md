@@ -28,7 +28,7 @@ An Advanced Image Processing Tool that allows users to load an image, apply Hist
 •	GUI support (Tkinter)
  
 
-# (Optional) Virtual environment
+(Optional) Virtual environment
 
 env="venv"
 
